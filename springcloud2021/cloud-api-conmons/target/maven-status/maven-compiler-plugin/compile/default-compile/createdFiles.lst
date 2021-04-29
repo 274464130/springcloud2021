@@ -1,0 +1,4 @@
+com\atspringcloud\entity\CommonResult.class
+com\atspringcloud\entity\CommonResult$CommonResultBuilder.class
+com\atspringcloud\vo\Payment$PaymentBuilder.class
+com\atspringcloud\vo\Payment.class
